@@ -122,6 +122,28 @@ What is frequent data mining ?
 What are the applications of classification ?
 
 What are the applications of clustering ?
+Where clustering is been applied in various fields were
+some of the applications are:
+Use of Clustering in Data Mining: Clustering is often one
+of the first steps in data mining analysis. It identifies groups of
+related records that can be used as a starting point for
+exploring further relationships. This technique supports the
+development of population segmentation models, such as
+demographic-based customer segmentation. Additional
+analyses using standard analytical and other data mining
+techniques can determine the characteristics of these segments
+with respect to some desired outcome. For example, the
+buying habits of multiple population segments might be
+compared to determine which segments to target for a new
+sales campaign.
+For example, a company that sales a variety of products
+may need to know about the sale of all of their products in
+order to check that what product is giving extensive sale and
+which is lacking. This is done by data mining techniques. But
+if the system clusters the products that are giving less sale then
+only the cluster of such products would have to be checked
+rather than comparing the sales value of all the products. This
+is actually to facilitate the mining process
 
 What is association rules ?
 
