@@ -121,7 +121,8 @@ What is frequent data mining ?
 
 What are the applications of classification ?
 
-What are the applications of clustering ?
+**What are the applications of clustering ?**
+
 Where clustering is been applied in various fields were
 some of the applications are:
 Use of Clustering in Data Mining: Clustering is often one
